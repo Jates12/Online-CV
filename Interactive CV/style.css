@@ -1,0 +1,77 @@
+body {
+  background-color: #fcf7f8;
+  margin: 0;
+  padding: 5px;
+  color: #33261d;
+}
+a:link {
+  color: #d62246;
+}
+a:visited {
+  color: #008dd5;
+}
+
+navhead {
+  position: relative;
+  top: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  text-decoration: underline;
+  color: #b8336a;
+}
+img {
+  float: right;
+  margin: 20px;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+h1,
+h3,
+h4 {
+  color: #b8336a;
+  text-decoration: underline;
+}
+body {
+  font-family: Arial, sans-serif;
+}
+
+ul.navbar-list {
+  list-style-type: disc;
+  margin: 14px;
+  padding: 2px;
+}
+.ReasonForLeave {
+  text-decoration: underline;
+  font-size: 14px;
+  position: relative;
+  bottom: 10px;
+}
+h5 {
+  color: #b8336a;
+  font-size: 16px;
+  position: relative;
+  bottom: 20px;
+}
+ul.Responsibilities {
+  position: relative;
+  bottom: 35px;
+  font-size: 15px;
+}
+hr {
+  position: relative;
+  bottom: 20px;
+}
+.Education {
+  position: relative;
+  font-size: 14px;
+  bottom: 40px;
+}
+footer {
+  position: relative;
+  bottom: 20px;
+  font-size: 14px;
+  text-align: center;
+  color: #b8336a;
+}
