@@ -26,7 +26,8 @@ navhead {
   text-decoration: underline;
   color: #b8336a;
 }
-img {
+
+img.selfie {
   float: right;
   margin: 20px;
   width: 150px;
