@@ -1,8 +1,6 @@
 body {
-  background-color: #fcf7f8;
-
+  background-color: #f0f3f5;
   color: #33261d;
-
   width: 210mm;
   margin: 20px auto;
   padding: 20mm;
@@ -14,7 +12,7 @@ a:link {
   color: #d62246;
 }
 a:visited {
-  color: #008dd5;
+  color: #f49e4c;
 }
 
 navhead {
@@ -24,7 +22,7 @@ navhead {
   font-weight: bold;
   text-align: center;
   text-decoration: underline;
-  color: #b8336a;
+  color: #00916e;
 }
 
 img.selfie {
@@ -37,7 +35,7 @@ img.selfie {
 h1,
 h3,
 h4 {
-  color: #b8336a;
+  color: #00916e;
   text-decoration: underline;
 }
 body {
@@ -56,7 +54,7 @@ ul.navbar-list {
   bottom: 10px;
 }
 h5 {
-  color: #b8336a;
+  color: #00916e;
   font-size: 16px;
   position: relative;
   bottom: 20px;
@@ -80,5 +78,5 @@ footer {
   bottom: 20px;
   font-size: 14px;
   text-align: center;
-  color: #b8336a;
+  color: #00916e;
 }
